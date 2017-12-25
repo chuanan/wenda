@@ -5,7 +5,7 @@ package main;
  */
 public class iamxb {
     public static void main(String[] args){
-        System.out.println("Hello World!dsf");
-        System.out.println("就是真个简单");
+        System.out.println("Hello World!");
+        System.out.println("就是真个简单"+（++‘a’）);
     }
 }
