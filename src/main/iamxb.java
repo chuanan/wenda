@@ -6,6 +6,6 @@ package main;
 public class iamxb {
     public static void main(String[] args){
         System.out.println("Hello World!");
-        System.out.println("就是真个简单"+（++‘a’）);
+        System.out.println("就是真个简单"+(2+'a'));
     }
 }
